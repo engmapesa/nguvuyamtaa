@@ -7,7 +7,7 @@ const Home = () => {
       <p className="lead">
         Tumeamua kuchukua hatua kama jamii ya Nyasaka B kwa kuchangia maendeleo ya barabara. Kila mchango ni hatua ya kweli.
       </p>
-      <Link to="/donate" className="btn btn-success mt-3">
+      <Link to="/public-donate" className="btn btn-success mt-3">
         Changia Sasa
       </Link>
     </div>
